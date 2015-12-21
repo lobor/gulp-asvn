@@ -7,7 +7,7 @@
     "commands/"
   ],
   "license": "MIT",
-  "repository": "Scheffer/gulp-asvn",
+  "repository": "lobor/gulp-asvn",
   "author": {
     "name": "Andres Scheffer",
     "email": "",
